@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vignesh-s-05a919328/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-05a919328/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshsjw@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vignesh26-09)
@@ -175,7 +175,7 @@ Q4 2025  ░░░░░░░░░░░░ 📅  React + TypeScript + System 
 
 📧 Reach me at: **[vigneshsjw@gmail.com](mailto:vigneshsjw@gmail.com)**
 
-🔗 **[LinkedIn]((https://www.linkedin.com/in/vignesh-s-05a919328/))** · **[Portfolio](https://YOUR_PORTFOLIO)** · **[Resume](https://YOUR_RESUME_LINK)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/vignesh-s-05a919328/)** · **[Portfolio](https://YOUR_PORTFOLIO)** · **[Resume](https://YOUR_RESUME_LINK)**
 
 </div>
 
