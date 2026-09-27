@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
-
-# Hi 👋, I'm S. Vignesh
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1f,50:16213e,100:0f2027&height=220&section=header&text=S.%20Vignesh&fontSize=50&fontColor=8ecdf7&fontAlignY=45&animation=fadeIn&width=100%" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Vibe+Coder;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Vibe+Coder;AI+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
